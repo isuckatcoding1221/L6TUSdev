@@ -8,5 +8,6 @@ Hello there, I am a software developer, that codes in languages such as
 HTML, CSS, Javascript and SQL
   <br>
 ------------------
-
+<h2>My github stats</h2>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuckatcoding1221)](https://github.com/anuraghazra/github-readme-stats)
 </div>
