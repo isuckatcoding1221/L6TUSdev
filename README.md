@@ -1,5 +1,5 @@
 <div align="center">
-  ///  L6TUS  ///
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=F7B1B1&background=FF36361A&center=true&vCenter=true&repeat=false&width=435&lines=%2F%2F%2F+L6TUS+%2F%2F%2F" alt="Typing SVG" /></a>
   <br>
   -----------------------------
   <br>
