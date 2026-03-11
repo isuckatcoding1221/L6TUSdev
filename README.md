@@ -7,6 +7,15 @@ Hello there, I am a software developer, that codes in languages such as
 <br>
 HTML, CSS, Javascript and SQL
   <br>
+  -----------------------------
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/HTML-blue" />
+  <img src="https://img.shields.io/badge/CSS-lightblue" />
+<img src="https://img.shields.io/badge/JS-yellow" />
+<img src="https://img.shields.io/badge/SQL-orange" />
+
+
 ------------------
 <h2>My github stats</h2>
  <img src="https://github-readme-stats.vercel.app/api?username=isuckatcoding1221&show_icons=true&theme=radical" />
